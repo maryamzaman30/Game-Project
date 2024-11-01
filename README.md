@@ -9,8 +9,8 @@ This project was part of my Midterm and Final. During Semester 1, I developed a 
 Note: Other code or resource used has been credited.
 
 How To Play:
-Moves right with key D
-Moves left with key A
+Moves right with key D,
+Moves left with key A,
 Jumps with key W
 
 Game Play Link - https://mz30.github.io/University-of-London-Game-Project/
