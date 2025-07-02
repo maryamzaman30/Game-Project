@@ -13,6 +13,6 @@ Moves right with key D,
 Moves left with key A,
 Jumps with key W
 
-Game Play Link - https://maryamzaman30.github.io/University-of-London-Game-Project/
+To play the game, click the link in the About section on the left
 
 Video Link - https://youtu.be/I9wWlH7mS_I
