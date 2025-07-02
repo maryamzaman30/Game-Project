@@ -4,7 +4,7 @@
 
 ## Associated with University of London
 
-This project was part of my Midterm and Final. During Semester 1, I developed a platform game using JavaScript and the p5 library. The game featured a character named Chick, along with platforms, obstacles like canyons, enemies such as bombs, and a finishing line. I also designed the background scenery and integrated sound effects. Additionally, the game included lives and scores. As my first individual project, I was responsible for every aspect, from game design to coding and testing.
+This project was part of my Midterm and Final. During Semester 1. I developed a 2D platform game using JavaScript and the p5.js library, where I planned the storytelling aspect and designed the visual aesthetics to complement the narrative. The project demonstrates how core programming concepts can be applied in an engaging, problem-solving context. Aimed at bridging the gap between theory and practice, the game features interactive elements like enemy bombs, canyons, scoring and lives, each reinforcing logic structures such as conditionals, loops and object-oriented design. From graphics to gameplay mechanics, I built every component independently, showcasing not only technical fluency but also creativity, user-centered thinking and the ability to translate abstract ideas into a compelling experience.
 
 Note: Other code or resource used has been credited.
 
